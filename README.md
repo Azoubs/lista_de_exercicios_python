@@ -1,1 +1,5 @@
-# lista_de_exercicios_python
+# Lista de Exercícios Python
+
+#### Em andamento!
+
+Fonte: https://wiki.python.org.br/ListaDeExercicios
